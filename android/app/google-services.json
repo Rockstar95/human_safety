@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076912420328",
+    "project_id": "human-safety-9a650",
+    "storage_bucket": "human-safety-9a650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076912420328:android:71f54503aa2137e5f3205d",
+        "android_client_info": {
+          "package_name": "com.example.human_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076912420328-kl9d5eo9l458a2i302s7j5atorqgk2ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPqpKU4VmJ11sx4aH2M-ZZuofDRp8f5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076912420328-b2gia3jsu4v1nd651urd6d47t1aj7ql6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
